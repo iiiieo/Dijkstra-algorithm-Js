@@ -28,4 +28,4 @@ Call "getShortestPath(startNode, endNode)" with the start- and end-node.
 
 ## License <a name = "license"></a>
 
-Distributed under the MIT License.
+Distributed under the MIT License. See "LICENSE.txt" for more information.
